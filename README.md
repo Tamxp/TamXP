@@ -4,9 +4,7 @@
  <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=NO+SUCCESS+IS+EASY;NO+FAIRULE+IS+THE+END&center=true&width=500&height=50"></a>
  </p>
-<p align="center">
 ![https://raw.githubusercontent.com/vsoch/dinosaur-dilemma/master/img/dinosaur-dilemma.gif](https://raw.githubusercontent.com/vsoch/dinosaur-dilemma/master/img/dinosaur-dilemma.gif)
-</p>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
