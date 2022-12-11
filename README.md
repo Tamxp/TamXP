@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Tam XP</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+ <p align="center">
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=An+engineering+student+at+PTIT;Currently+learning+security+engineer;Be+so+good+they+can't+ignore+you&center=true&width=500&height=50"></a>
+ </p>
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=NO+SUCCESS+IS+EASY;NO+FAIRULE+IS+THE+END"></p>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
