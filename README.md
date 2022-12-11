@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
+- ✍ I'm a student of: [ Posts and Telecommunications Institute of Technology (PTIT)](https://ptithcm.edu.vn/) (HCMPTIT).
 
 - 🌱 I’m currently learning **MERN Stack.**
 
