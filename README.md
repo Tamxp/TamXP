@@ -4,6 +4,11 @@
  <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=NO+SUCCESS+IS+EASY;NO+FAIRULE+IS+THE+END&center=true&width=500&height=50"></a>
  </p>
+ [![PyPI version](https://badge.fury.io/py/dinolemma.svg)](https://pypi.org/project/dinolemma/)
+[![GitHub actions status](https://github.com/vsoch/dinosaur-dilemma/workflows/ci/badge.svg?branch=master)](https://github.com/vsoch/dinosaur-dilemma/actions?query=branch%3Amaster+workflow%3Aci)
+
+![https://raw.githubusercontent.com/vsoch/dinosaur-dilemma/master/img/dinosaur-dilemma.gif](https://raw.githubusercontent.com/vsoch/dinosaur-dilemma/master/img/dinosaur-dilemma.gif)
+
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
